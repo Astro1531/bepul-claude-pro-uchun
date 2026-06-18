@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+saltinup.db
+saltinup.log
+static/uploads/
+*.db
+*.log
